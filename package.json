@@ -1,21 +1,21 @@
 {
-  "name": "myDiscordBot",
+  "name": "mydiscordbot",
   "version": "1.0.0",
-  "description": "Bot creado para que cualquiera pueda utilizar y modificar código.",
+  "description": "Mini discord BOT",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "discord.js-avatar": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "!ip, !on, !mantenimiento, !off"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NicoEugui/myDiscordBot.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Nicolas Eugui",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NicoEugui/myDiscordBot/issues"
